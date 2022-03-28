@@ -7,6 +7,7 @@ public class W2C {
         System.out.println("Hola mundo");
         System.out.println("Adios world");
         System.out.println("Berenjena");
+        System.out.println("Segundo dia");
     }
     
 }
