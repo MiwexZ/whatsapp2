@@ -1,0 +1,35 @@
+commit 5b030c79c11de4e5b061bfe205b76df039dc3b1e
+Author: MiwexZ <miguelro9@icloud.com>
+Date:   Mon Mar 28 13:38:44 2022 +0200
+
+    commit desde linux
+
+commit b9badda098a9dc2e2cc1fc96e2242975617f7f5b
+Author: MiwexZ <miguelro9@icloud.com>
+Date:   Mon Mar 28 13:36:43 2022 +0200
+
+    commit Segundo dia linux v2
+
+commit 1cffc3a2c971ab6730a77ab7bc76a62b7fcd1f5b
+Author: MiwexZ <miguelro9@icloud.com>
+Date:   Mon Mar 28 13:17:10 2022 +0200
+
+    commit Segundo dia de Git
+
+commit 6c2671b7f31c03942fb6d5326ce133951e01bfd6
+Author: MiwexZ <miguelro9@icloud.com>
+Date:   Thu Mar 24 13:58:25 2022 +0100
+
+    Berenjena
+
+commit 256834e5b8677b177c14011918c264d52801a932
+Author: MiwexZ <miguelro9@icloud.com>
+Date:   Thu Mar 24 13:56:11 2022 +0100
+
+    Segundo Commit
+
+commit d27d7f4c89615f56d38dfd744accdace6e080ca8
+Author: MiwexZ <miguelro9@icloud.com>
+Date:   Thu Mar 24 13:55:02 2022 +0100
+
+    Primer commit
